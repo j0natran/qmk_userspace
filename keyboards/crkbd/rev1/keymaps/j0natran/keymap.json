@@ -4,6 +4,7 @@
   "version": 1,
   "keyboard": "crkbd/rev1",
   "keymap": "crkbd_rev1_layout_split_3x6_3_2026-04-12",
+  "converter": "rp2040_ce", 
   "layout": "LAYOUT_split_3x6_3",
   "layers": [
     [
