@@ -53,7 +53,7 @@
     ],
     [
       "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",
-      "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",
+      "KC_NO",   "KC_LGUI", "KC_LALT", "KC_LCTL", "KC_LSFT", "KC_NO",
       "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",   "KC_NO",
                                        "KC_NO",   "KC_NO",   "KC_TRNS",
 
