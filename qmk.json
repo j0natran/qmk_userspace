@@ -1,6 +1,10 @@
 {
     "userspace_version": "1.0",
     "build_targets": [
-        ["crkbd/rev1", "j0natran"]
+        {
+            "keyboard": "crkbd/rev1",
+            "keymap": "j0natran",
+            "converter": "pro_micro_rp2040"
+        }
     ]
 }
